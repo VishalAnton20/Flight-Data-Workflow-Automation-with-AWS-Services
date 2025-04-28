@@ -1,4 +1,4 @@
-# Ingest Daily Flight Data in Redshift Fact Table
+# Event-Driven Flight Data Ingestion and Processing on AWS Cloud
 
 ## Overview
 
